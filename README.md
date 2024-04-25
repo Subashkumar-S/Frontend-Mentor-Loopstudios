@@ -26,11 +26,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/screenshot.png)
+#### Desktop Screenshot
+
+![](/screenshot/Loopstudios-desktop.png)
+
+#### Mobile Screenshot
+
+![](/screenshot/loopstudios-mobile.jpg)
 
 ### Links
 
-- Solution URL: [Solution on Front-end Mentor Website](https://your-solution-url.com)
+- Solution URL: [Github](https://www.frontendmentor.io/solutions/responsive-landing-page-using-html-and-scss-yZx0Lq9zC8)
 - Live Site URL: [Live site](https://loopstudios-cd24f.web.app)
 
 ## My process
